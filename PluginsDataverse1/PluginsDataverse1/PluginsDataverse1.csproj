@@ -107,6 +107,7 @@
   <ItemGroup>
     <Compile Include="Plugin1_IniSolicitud.cs" />
     <Compile Include="Plugin2_ValidacionEnvio.cs" />
+    <Compile Include="Plugin3_CambioEstado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
